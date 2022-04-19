@@ -1,0 +1,3 @@
+請把照片放到HW1_dataset/input資料夾裡面
+並執行foreground_detection.exe
+輸出的照片會存在output資料夾
